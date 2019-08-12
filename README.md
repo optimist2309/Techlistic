@@ -1,2 +1,2 @@
 # Techlistic
-A repository for Techlistic.com Selenium Webdriver Assignments 
+A repository for Techlistic.com Selenium Webdriver Assignments.
